@@ -1,0 +1,68 @@
+.back{
+    opacity: 0.9;
+}
+.mar{
+    font-size: 70px;
+}
+.image{
+    background-image: url("https://forbo.azureedge.net/forboimages/828394/startseite_flooring_01.webp");
+    height: 300px;
+}
+.main{
+    width: 900px;
+   padding-left: 400px;
+}
+.tes{
+     list-style-type: none ;
+}
+.button {
+
+    position: relative; display: flex;
+    
+    color: #fff;
+    
+    align-items: center; background: none; border: none; cursor: pointer;
+    
+    padding: 12px 18px;
+    
+    } .button::before {
+    
+    content:"";
+    
+    position: absolute;
+    
+    top: 50%; z-index: -1;
+    
+    translate: calc(100% + 4px) -50%;
+    
+    width: 45px;
+    
+    height: 45px;
+    
+    background: #0561ee;
+    
+    border-radius: 50px;
+    
+    transition:
+    
+    translate 0.255 0.255 cubic-bezier(0, 0, 0.5, 2), width 8.25s cubic-bezier(0, 0, 0.5, 2);
+    }
+    .button:hover::before {
+
+        width: 100%; transition: translate 0.25s cubic-bezier (0, 0, 0.5, 2), width 0.25s 8.25s cubic-bezier (8, 8, 8.5, 2);
+        
+        translate: 18px -50%;
+        
+        }
+        
+        .button i {
+        
+        margin-left: 5px;
+        
+        transition: translate 0.25s 0.45 cubic-bezier(0, 8, 8.5, 2);
+
+        }
+        .button:hover i {
+            translate: 3px 0;
+        }
+      

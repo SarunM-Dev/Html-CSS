@@ -1,0 +1,29 @@
+body{
+    background-image: linear-gradient(to left,red,white,black,pink,yellow,purple);
+}
+h1{
+    font-size: 150px;
+    text-align: center;
+    text-decoration: underline;
+    background-image: url(images.jpg);
+    background-size:50px 100px;
+    background-attachment: fixed;
+    background-clip: text;
+    color: transparent;
+    -webkit-background-clip: text;
+}   
+p{
+    text-align: center;
+    text-shadow: lightblue 2px 2px 2px;
+    font-weight: bold;
+    color: black;
+    font-size: large;
+    background-color: black;
+    background-image: url(unnamed\ \(1\).png);
+    background-repeat: cover;
+    background-size: 100px 200px;
+    background-attachment: fixed;
+    background-clip: text;
+    color: transparent;
+    -webkit-background-clip: text;    
+}

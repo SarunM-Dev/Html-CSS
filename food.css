@@ -1,0 +1,14 @@
+body{
+    background-color: gray;
+}
+.size{
+    height: 30px;
+    width: 100px;
+}
+.cen{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.he{
+    height: 289px;
+}

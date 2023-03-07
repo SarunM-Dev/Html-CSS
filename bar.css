@@ -1,0 +1,74 @@
+body{
+    background-image: url(CHAS_stock_adobe.jpeg);
+    background-size: cover;
+    opacity: 0.8;
+}
+.logo{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: large;
+    color: blueviolet;
+    margin-left: 50px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.para{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 50px;
+    margin-top: 150px;
+    margin-left: 55px;
+    color: black;
+}
+.con{
+    border: solid blueviolet 5px ;
+    border-radius: 10px;
+    font-size: large;
+    background-color: blueviolet;
+    height: 50px;
+    width: 140px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    /* margin-left: 20px; */
+    /* margin:-20px auto; */
+    margin-left: auto;
+    margin-right: auto;
+}
+.div1{
+    margin-top: -45px;
+    margin-left: 60px;
+}
+.bar{
+    display: flex;
+    float: right;
+    list-style-type: none;
+    margin: 0;
+    margin-top:30px;
+    position:absolute;
+    left:900px;
+    top:-5px;
+}
+li{
+    padding: 20px;
+}
+.icon{
+    position: absolute;
+    top: 12px;
+    left: 900px;
+}
+i{
+    padding: 30px;
+}
+.move{
+    margin-left: -5px;
+}
+.white{
+    background-color: white;
+    margin: auto;
+    height: 80px;
+    width: 110pw;
+    margin-top: -10px;
+}

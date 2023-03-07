@@ -1,0 +1,42 @@
+.grey{
+    color: white;
+    height: 70px;
+    text-align: center;
+    padding: 13px;
+    border-radius: 30px;
+    text-shadow: 2px 2px 2px black;
+    
+}
+.back{
+      background-image: url("https://w0.peakpx.com/wallpaper/744/229/HD-wallpaper-whatsapp-cartoon-halloween-black-dark-simple-rock-skull-thumbnail.jpg");
+      height: 100%;
+      width: 100%;
+}
+.chatmain{
+    margin-top: 30px;
+}
+.chat1{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: xx-large;
+    text-align: right;
+    border-radius: 15px 15px 0px 15px;
+    padding: 8px;
+    margin-right: 10px;
+    margin-left: 30px;
+}
+.chat2{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: xx-large;
+    text-align: left;
+    border-radius: 0px 15px 15px 15px;
+    padding: 8px;
+    margin-right: 10px;
+    margin-left: 10px; 
+}
+.butt{
+      margin-bottom: 10px;
+      text-align: right;
+      margin-left: 1100px;
+}

@@ -1,0 +1,112 @@
+body{
+    background-image:linear-gradient(to right,pink,darkred);
+}
+.box{
+    border:solid rgb(218, 10, 114) 10px;
+    background-image:linear-gradient(to right,rgb(255, 0, 140),rgb(0, 137, 139));
+    background-image: url(elegant-watercolor-spring-floral-with-fresh-flowers-free-vector.jpg);
+    background-size: cover;
+    border-radius: 10px;
+    margin: auto;
+    height: 70vh;
+    width: 70%;
+    margin-top: 50px;
+}
+h1{
+    font-weight: bold;
+    color: red;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+h2{
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 20px;
+}
+p{
+    color: black;
+    margin-left: 20px;
+    font-style: italic;
+}
+button{
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 35px;
+    background-color: tomato;
+    border-radius: 20px;
+    height: 9%;
+    width: 15%;
+}
+a{
+    position: static;
+    top: 50px;
+    right: 50px;
+    
+}
+i{
+    font-size: xx-large;
+    position: absolute;
+    bottom: 130px;
+    right: 700px;
+}
+.insta{
+      color: black;
+      font-weight: bold;
+      width: 30px;
+      font-style: italic;
+      position: absolute;
+      font-size: x-large;
+      position: absolute;
+      top: 450px;
+      left: 590px;
+}
+.hov:hover{
+      background-color: green;
+}
+#web{
+    color: black;
+      font-weight: bold;
+      font-style: italic;
+      position: absolute;
+      font-size: x-large;
+      position: absolute;
+      top: 450px;
+      left: 590px;
+}
+.logo{
+    position: absolute;
+    top: 250px;
+    left: 500px;
+    height: 30%;
+    width: 25%;
+}
+#arrow{
+    font-size: xx-large;
+    position: absolute;
+    bottom: 330px;
+    right: 82%;
+}
+#web{
+    font-size: 30px;
+    position: absolute;
+    top: 450px;
+    left: 760px;
+}
+.global{
+    color: black;
+      font-weight: bold;
+      font-style: italic;
+      position: absolute;
+      font-size: x-large;
+      position: absolute;
+      top: 450px;
+      left: 800px;
+}
+.amazon{
+    position: absolute;
+    top: 75px;
+    left: 430px;
+    height: 12%;
+    width: 10%;
+}

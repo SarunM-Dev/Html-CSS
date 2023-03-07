@@ -1,0 +1,73 @@
+body{
+    background-image: url(360_F_494872089_fZHtylEKvUxpHIGmaLGlwIfz9oWUXLJW.jpg);
+    background-size: cover;
+    text-align: center;
+}
+h1{
+    text-shadow: red 2px 2px 2px;
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+p{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    margin-bottom: 50px;
+    
+}
+.inside{
+    height: 80vh;
+    width: 50%;
+    margin:0 auto;
+    margin-top: 40px;
+    border: solid blue 10px;
+    background-image: linear-gradient(lightblue,blue,red);
+    align-items: center;
+    border-radius: 5px;
+    
+}
+.name{
+    background-image: linear-gradient(grey,white);
+    height: 7%;
+    width: 80%;
+    border:solid white 5px;
+    border-radius: 10px; 
+    margin-bottom: 10px;
+}
+.mail{
+    background-image: linear-gradient(grey,white);
+    height: 7%;
+    width: 80%;
+    border:solid white 5px;
+    border-radius: 10px; 
+    margin-bottom: 10px;
+    
+}
+.number{
+    background-image: linear-gradient(grey,white);
+    height: 7%;
+    width: 80%;
+    border:solid white 5px;
+    border-radius: 10px; 
+}
+button{
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 30px;
+    background-color: aqua;
+    font-weight: bold;
+}
+.name:hover{
+background-color: blue;
+}
+::placeholder{
+    font-size: 20px;
+    color: black;
+    font-style: italic;
+}

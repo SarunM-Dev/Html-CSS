@@ -1,0 +1,38 @@
+.image{
+    background-image: url("https://www.licious.in/blog/wp-content/uploads/2020/12/Grilled-Chicken-min-750x750.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 620px;
+}
+.row{
+    float: left;
+}
+li{
+    padding-left: 30PX;
+    list-style-type: none;
+    font-size: large;
+    color: white;
+}
+ul{
+    padding-left: 400px;
+}
+.color{
+    background-color: rgb(230, 147, 23);
+    height: 600px;
+    color: white;
+}
+.rowin{
+    background-color: rgb(230, 147, 23); 
+}
+.color1{
+    background-color: rgb(244, 215, 47);
+    height: 400px;
+}
+.size1{
+    font-size: 100px;
+    margin-left: 400px;
+}
+.big{
+    font-size: 50px;
+    color: red;
+}

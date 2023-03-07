@@ -1,0 +1,68 @@
+h1{
+    text-align: center;
+    font-size: 40px;
+    text-shadow: 5px 5px 5px sandybrown;
+    font-weight: bolder;
+    background-color: skyblue;
+    width: 50%;
+    margin: auto;
+}
+h2{
+    font-style: italic;
+    text-align: center;
+    color: red;
+    text-decoration: underline;
+    font-size: 40px;
+}
+table,tr,th,td{
+    border: 2px solid red;
+    margin:0 auto;
+    background-color: blanchedalmond;
+    padding: 15px;
+    color: blueviolet;
+    width: 40%; 
+    height: 100%;
+    align-items: center;
+}
+th{
+    background-color: brown;
+    color: white;
+}
+td:hover{
+    text-align: center;
+    background-color: green;
+}
+button{
+    color: green;
+}
+h3{
+    background-color: blueviolet;
+    color: black;
+    text-align: center;
+    font-weight: bolder;
+    font-size: xx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 20%;
+    margin: auto;
+}
+.green{
+background-color: green;
+color: white;
+}
+.red{
+    background-color: red;
+    color: white;
+}
+.img{
+    background-image: url(perceptual-standard.jpg);
+    background-position:left top;
+    background-size: 500px 500px;
+    background-clip: border-box;
+    background-repeat:repeat;
+    background-attachment: scroll;
+}
+div{
+    background-image: url();
+}
+
+     

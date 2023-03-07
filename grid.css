@@ -1,0 +1,10 @@
+img{
+    height: 120px;
+    width: 200px;
+}
+.size{
+    color: white;
+    background-image: url("https://cdn2.iconfinder.com/data/icons/social-media-solid-2/32/Whatsapp-512.png");
+        height: 15px;
+        width: 25px;
+    }

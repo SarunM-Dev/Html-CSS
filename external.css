@@ -1,0 +1,46 @@
+div{
+  background-color:red;
+  height: 60%;
+  max-height: 60%;
+  width: 90vw;
+  min-width: 90vw;
+  margin: auto;
+  color: white;
+}
+.big{ 
+  background-color:lightgoldenrodyellow;
+  color:darkblue;
+  margin: auto;
+  font-size: xx-large;
+}
+span{
+  background-color: chartreuse;
+  color: black;
+  font-size: larger;
+}
+.location{
+  background-color:white;
+  color: black;
+}
+.emety{
+  background-color: aquamarine;
+}
+.admission_open{
+  background-color: orangered;
+  color:seagreen;
+  font-family: serif;
+}
+.image{
+  background-color: black;
+  height: 150px;
+  width: 150px;
+  align-items: center;
+  flex: auto;
+}
+div h1{       
+  color: saddlebrown;
+}
+div h2{
+  color: slateblue;
+}
+DIV
